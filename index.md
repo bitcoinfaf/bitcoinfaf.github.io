@@ -2,10 +2,13 @@
 
 You can use the [editor on GitHub](https://github.com/bitcoinfaf/bitcoinfaf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-  - Built for speed (buy/sell) 
-  - No System Overload Errors
-  - No Funding bullshit
-  - 
+  - Buy and Sell Bitcoin Fast without System Overload Errors  
+  - No System Overload Errors: matching engine built withstand fast price movements, high volume and volatility without throwing System Overload Errors
+  - No Funding bullshit every 8 hours
+  - Go Long or Short on Bitcoin: allows you to hold long or short positions, providing added flexibility and greater profit potential depending on price movement and market direction.
+  - Lower Bitcoin Margins: offering margins of 66% for both long and short positions.
+  - low fees
+  - respect for your privacy: no IP Address tracking, no cookies, no bullshit 
   
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
