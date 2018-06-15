@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/bitcoinfaf/bitcoinfaf.gith
 
   - Buy and Sell Bitcoin Fast without System Overload Errors  
   - No System Overload Errors: matching engine built withstand fast price movements, high volume and volatility without throwing System Overload Errors
-  - No Funding bullshit every 8 hours
+  - No Funding Fees every 8 hours
   - Go Long or Short on Bitcoin: allows you to hold long or short positions, providing added flexibility and greater profit potential depending on price movement and market direction.
   - Lower Bitcoin Margins: offering margins of 66% for both long and short positions.
   - low fees
