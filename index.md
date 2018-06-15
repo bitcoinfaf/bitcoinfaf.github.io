@@ -9,6 +9,8 @@ You can use the [editor on GitHub](https://github.com/bitcoinfaf/bitcoinfaf.gith
   - Lower Bitcoin Margins: offering margins of 66% for both long and short positions.
   - low fees
   - respect for your privacy: no IP Address tracking, no cookies, no bullshit 
+  - encrypted data 
+  
   
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
